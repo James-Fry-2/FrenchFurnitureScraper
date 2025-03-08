@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+.env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+.DS_Store
+.vscode/
+
+*.log
